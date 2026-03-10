@@ -8,7 +8,7 @@
 
 <p>
 Passionate about building modern, responsive, and user-friendly web applications.
-Also have basic knowledge in <strong>MERN Stack</strong> & <strong>React Native</strong>.
+Also have basic knowledge in <strong>MEAN Stack</strong> & <strong>React Native</strong>.
 </p>
 
 <a href="https://github.com/roaaahmedmohamed">
