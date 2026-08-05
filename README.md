@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
 <h2 align="center">👋 Hello! I'm Roaa.</h2>
-<h4 align="center">FrontEnd Developer</h4>
+<h4 align="center">Front End Developer | React Native Developer</h4>
 
 
 <!-- <p align="center">
